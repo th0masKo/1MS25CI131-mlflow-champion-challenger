@@ -1,0 +1,9 @@
+model_version,alias,text,label,score
+1,champion,The cricket match last night was absolutely thrilling till the final ball.,POSITIVE,0.998
+1,champion,My phone screen cracked the very first day I bought it.,NEGATIVE,0.9935
+1,champion,The new cafe near campus serves the best filter coffee I have tasted.,POSITIVE,0.9978
+1,champion,The exam paper was unfair and nothing from the syllabus was asked.,NEGATIVE,0.9984
+1,champion,I really enjoyed the guest lecture on robotics this morning.,POSITIVE,0.9984
+1,champion,The train was cancelled without any announcement and we were stranded.,NEGATIVE,0.9976
+1,champion,Our hostel warden was very kind and helped me when I was sick.,POSITIVE,0.9882
+1,champion,The online portal crashed right before the assignment deadline.,NEGATIVE,0.9945
